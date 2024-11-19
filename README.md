@@ -1,17 +1,13 @@
 <!-- 
 blkaddr/blkaddr
 -->
-## Private Service Account: 
+## 🛈 
 
-### 🛈 
-[@blkaddr](https://github.com/blkaddr)
-
+Private Repository
 
 ---
 
+Service Account: 
+[@lxv.io](https://github.com/alexvisca)
 
-
-
-
-
-
+> Copyright &copy; 2020, 2025. All rights reserved. 
